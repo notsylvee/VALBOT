@@ -19,7 +19,7 @@ module.exports = {
       .setColor(`#ff4654`)
       .setTitle(`${agent.name}`)
       .setImage(`https://cdn.sylvee.xyz/valorantagent${agent.num}.png`)
-      .addFields({ name: '\u200b', value: `${agent.role}` })
+      .setFooter({ text: `${agent.role}`, iconURL: `https://cdn.sylvee.xyz/valorant${agent.role}.png` });
 
       await interaction.reply({ embeds: [embed] });
     },
