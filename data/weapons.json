@@ -1,0 +1,23 @@
+{
+    "weapons": [
+        { "num": "1", "name": "Classic", "price": "Free" },
+        { "num": "2", "name": "Shorty", "price": "300" },
+        { "num": "3", "name": "Frenzy", "price": "450" },
+        { "num": "4", "name": "Ghost", "price": "500" },
+        { "num": "5", "name": "Sheriff", "price": "800" },
+        { "num": "6", "name": "Stinger", "price": "1,100" },
+        { "num": "7", "name": "Spectre", "price": "1,600" },
+        { "num": "8", "name": "Bucky", "price": "850" },
+        { "num": "9", "name": "Judge", "price": "1,850" },
+        { "num": "10", "name": "Bulldog", "price": "2,050" },
+        { "num": "11", "name": "Guardian", "price": "2,250" },
+        { "num": "12", "name": "Phantom", "price": "2,900" },
+        { "num": "13", "name": "Vandal", "price": "2,900" },
+        { "num": "14", "name": "Marshal", "price": "950" },
+        { "num": "15", "name": "Outlaw", "price": "2,400" },
+        { "num": "16", "name": "Operator", "price": "4,700" },
+        { "num": "17", "name": "Ares", "price": "1,600" },
+        { "num": "18", "name": "Odin", "price": "3,200" },
+        { "num": "19", "name": "Melee", "price": "Free" }
+    ]
+}

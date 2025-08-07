@@ -17,7 +17,7 @@ module.exports = {
 
       const embed = new EmbedBuilder()
       .setColor(`#ff4654`)
-      .setTitle(`${agent.name}`)
+      .setTitle(`# ${agent.name}`)
       .setImage(`https://cdn.sylvee.xyz/valorantagent${agent.num}.png`)
       .setFooter({ text: `${agent.role}`, iconURL: `https://cdn.sylvee.xyz/valorant${agent.role}.png` });
 
