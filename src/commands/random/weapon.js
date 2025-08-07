@@ -17,7 +17,7 @@ module.exports = {
 
       const embed = new EmbedBuilder()
       .setColor(`#ff4654`)
-      .setTitle(`# ${weapon.name}`)
+      .setTitle(`${weapon.name}`)
       .setImage(`https://cdn.sylvee.xyz/valorantweapon${weapon.num}.png`)
       .setFooter({ text: `${weapon.price}`, iconURL: `https://cdn.sylvee.xyz/valorantcredit.png` });
 
